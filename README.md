@@ -9,6 +9,11 @@ owo owo
 当前开发测试版本为V3
 需要先给bot发条消息作为手动初始化（拿个bot变量）
 
+```shell
+yarn add read-last-lines
+yarn add iconv-lite
+```
+
 ```js
 plugins: {
     './plugins/mc1': {},
