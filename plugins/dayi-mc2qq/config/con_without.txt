@@ -1,0 +1,22 @@
+issued server command
+moved
+PetBlocks
+logged
+[Rcon]
+to player
+Loading properties
+Default game type:
+Game rule keepInventory has been updated to true
+yum
+Starting minecraft server version
+Loading properties
+Default game type: SURVIVAL
+Generating keypair
+Starting Minecraft server on
+**** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+The server will make no attempt to authenticate usernames. Beware.
+While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+To change this, set "online-mode" to "true" in the server.properties file.
+For help, type "help" or "?"
+Starting remote control listener
+	at 
